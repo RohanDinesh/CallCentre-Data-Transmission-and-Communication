@@ -1,9 +1,9 @@
 # Call Centre Data Transmission and Communication
 
 This project briefly explains the concept of OSPF(Open Shortest Path First) protocol and shows its
-implementation with an use case scenario. Here the scenario is
+implementation with a use case scenario. Here the scenario is
 communication and transmission of data, within the branches of a call
-centre.
+center.
 
 It also illustrates OSPF protocol’s benefits and possible (if any) issues.
 The OSPF Protocol is a dynamic routing protocol which provides a highly
