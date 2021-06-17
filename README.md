@@ -16,7 +16,7 @@ sharing, and for selective route importing. It can also provide better load
 sharing on external links rather than other IGPs (Internal Gateway
 Protocols).
 
-OSPF Protocol is a famous TCP/IP Internal
-Gateway Protocol which is used to distribute information within a single
+OSPF Protocol is a famous TCP/IP Internal Gateway Protocol 
+which is used to distribute information within a single
 system. It is based on link-state technology which is different from
 algorithms like RIPv4 which are used in Internet Routing protocols.
