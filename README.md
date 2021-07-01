@@ -21,6 +21,6 @@ which is used to distribute information within a single
 system. It is based on link-state technology which is different from
 algorithms like RIPv4 which are used in Internet Routing protocols.
 
-
+This pkt file can be opened using cisco packet tracer, a Networking Simulation Tool 
 
 ![image](https://user-images.githubusercontent.com/66969681/123515051-a58e7980-d6b3-11eb-95f7-013a5b9a509f.png)
