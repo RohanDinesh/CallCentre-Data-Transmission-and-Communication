@@ -5,7 +5,7 @@ implementation with a use case scenario. Here the scenario is
 communication and transmission of data, within the branches of a call
 center.
 
-It also illustrates OSPF protocol’s benefits and possible (if any) issues.
+It also illustrates OSPF protocol’s benefits and possible issues.
 The OSPF Protocol is a dynamic routing protocol which provides a highly
 functional open protocol that any vendor can use to communicate using the
 TCP/IP protocol family. It can converge the networks extremely fast and
